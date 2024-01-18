@@ -1,4 +1,4 @@
-# worldometers-data-scraper
+# Worldometers Dataset: data scrapping
 The Worldometers Data Scraper is a Python program designed to gather essential data from the website Worldometer and organize it into a table format. This table includes information about various countries, such as their population, area, GDP (Nominal), and continent.
 
 ## Features:
