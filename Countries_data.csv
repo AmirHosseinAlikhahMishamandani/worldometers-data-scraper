@@ -1,0 +1,234 @@
+Country,Continent,Population,Area,GDP (Nominal)
+China,Asia,"1,425,671,352","9,388,211","$17,963,200,000,000"
+India,Asia,"1,428,627,663","2,973,190","$3,385,090,000,000"
+Indonesia,Asia,"277,534,122","1,811,570","$1,319,100,000,000"
+Pakistan,Asia,"240,485,658","770,880","$376,533,000,000"
+Bangladesh,Asia,"172,954,319","130,170","$460,201,000,000"
+Japan,Asia,"123,294,513","364,555","$4,231,140,000,000"
+Philippines,Asia,"117,337,368","298,170","$404,284,000,000"
+Vietnam,Asia,"98,858,950","310,070","$408,802,000,000"
+Iran,Asia,"89,172,767","1,628,550","$388,544,000,000"
+Turkey,Asia,"85,816,199","769,630","$905,988,000,000"
+Thailand,Asia,"71,801,279","510,890","$495,341,000,000"
+Myanmar,Asia,"54,577,997","653,290","$59,364,362,541"
+South Korea,Asia,"51,784,059","97,230","$1,665,250,000,000"
+Iraq,Asia,"45,504,560","434,320","$264,182,000,000"
+Afghanistan,Asia,"42,239,854","652,860",
+Saudi Arabia,Asia,"36,947,025","2,149,690","$1,108,150,000,000"
+Uzbekistan,Asia,"35,163,944","425,400","$80,391,853,885"
+Malaysia,Asia,"34,308,525","328,550","$406,306,000,000"
+Yemen,Asia,"34,449,825","527,970",
+Nepal,Asia,"30,896,590","143,350","$40,828,247,302"
+North Korea,Asia,"26,160,821","120,410",
+Taiwan,Asia,"23,923,276","35,410",
+Sri Lanka,Asia,"21,893,579","62,710","$74,403,578,363"
+Syria,Asia,"23,227,014","183,630",
+Kazakhstan,Asia,"19,606,633","2,699,700","$220,623,000,000"
+Cambodia,Asia,"16,944,826","176,520","$29,956,769,529"
+Jordan,Asia,"11,337,052","88,780","$47,451,499,859"
+Azerbaijan,Asia,"10,412,651","82,658","$78,721,058,824"
+Tajikistan,Asia,"10,143,543","139,960","$10,492,123,388"
+United Arab Emirates,Asia,"9,516,871","83,600","$507,535,000,000"
+Israel,Asia,"9,174,520","21,640","$522,033,000,000"
+Hong Kong,Asia,"7,491,609","1,050","$359,839,000,000"
+Laos,Asia,"7,633,779","230,800","$15,724,383,783"
+Kyrgyzstan,Asia,"6,735,347","191,800","$10,930,644,915"
+Turkmenistan,Asia,"6,516,100","469,930",
+Singapore,Asia,"6,014,723",700,"$466,789,000,000"
+Lebanon,Asia,"5,353,930","10,230",
+State of Palestine,Asia,"5,371,230","6,020","$19,111,900,000"
+Oman,Asia,"4,644,384","309,500","$114,667,000,000"
+Kuwait,Asia,"4,310,108","17,820","$184,558,000,000"
+Georgia,Asia,"3,728,282","69,490","$24,605,375,420"
+Mongolia,Asia,"3,447,157","1,553,560","$16,810,883,361"
+Armenia,Asia,"2,777,970","28,470","$19,502,783,988"
+Qatar,Asia,"2,716,391","11,610","$237,296,000,000"
+Bahrain,Asia,"1,485,509",760,"$44,390,820,479"
+Timor-Leste,Asia,"1,360,596","14,870","$3,163,324,631"
+Cyprus,Asia,"1,260,138","9,240","$28,439,052,741"
+Bhutan,Asia,"787,424","38,117",
+Macao,Asia,"704,149",30,"$21,979,475,561"
+Maldives,Asia,"521,021",300,"$6,189,865,408"
+Brunei,Asia,"452,524","5,270","$16,681,531,646"
+Nigeria,Africa,"223,804,632","910,770","$477,386,000,000"
+Ethiopia,Africa,"126,527,060","1,000,000","$126,783,000,000"
+Egypt,Africa,"112,716,598","995,450","$476,748,000,000"
+DR Congo,Africa,"102,262,808","2,267,050","$58,065,953,573"
+Tanzania,Africa,"67,438,106","885,800","$75,709,289,056"
+South Africa,Africa,"60,414,495","1,213,090","$405,870,000,000"
+Kenya,Africa,"55,100,586","569,140","$113,420,000,000"
+Sudan,Africa,"48,109,006","1,765,048","$51,662,241,775"
+Uganda,Africa,"48,582,334","199,810","$45,559,202,049"
+Algeria,Africa,"45,606,480","2,381,740","$191,913,000,000"
+Morocco,Africa,"37,840,044","446,300","$134,182,000,000"
+Angola,Africa,"36,684,202","1,246,700","$106,714,000,000"
+Ghana,Africa,"34,121,985","227,540","$72,838,798,788"
+Mozambique,Africa,"33,897,354","786,380","$17,851,491,428"
+Madagascar,Africa,"30,325,732","581,795","$14,954,967,604"
+Côte d'Ivoire,Africa,"28,873,034","318,000","$70,018,715,017"
+Cameroon,Africa,"28,647,293","472,710","$44,341,646,509"
+Niger,Africa,"27,202,843","1,266,700","$13,969,605,583"
+Burkina Faso,Africa,"23,251,485","273,600","$18,884,619,613"
+Mali,Africa,"23,293,698","1,220,190","$18,827,176,532"
+Malawi,Africa,"20,931,751","94,280","$13,164,667,627"
+Zambia,Africa,"20,569,737","743,390","$29,784,454,056"
+Chad,Africa,"18,278,568","1,259,200","$12,704,149,842"
+Senegal,Africa,"17,763,163","192,530","$27,684,430,244"
+Somalia,Africa,"18,143,378","627,340",
+Zimbabwe,Africa,"16,665,409","386,850","$20,678,055,598"
+Guinea,Africa,"14,190,612","245,720","$21,227,749,389"
+Rwanda,Africa,"14,094,683","24,670","$13,312,796,765"
+Benin,Africa,"13,712,828","112,760","$17,401,746,309"
+Tunisia,Africa,"12,458,223","155,360","$46,664,948,952"
+Burundi,Africa,"13,238,559","25,680","$3,073,414,678"
+South Sudan,Africa,"11,088,796","610,952",
+Togo,Africa,"9,053,799","54,390","$8,126,439,481"
+Sierra Leone,Africa,"8,791,092","72,180","$3,970,343,852"
+Libya,Africa,"6,888,388","1,759,540","$45,752,336,036"
+Congo,Africa,"6,106,869","341,500","$14,615,532,210"
+Central African Republic,Africa,"5,742,315","622,980","$2,382,618,615"
+Liberia,Africa,"5,418,377","96,320","$4,001,047,150"
+Mauritania,Africa,"4,862,989","1,030,700","$10,375,460,680"
+Eritrea,Africa,"3,748,901","101,000",
+Gambia,Africa,"2,773,168","10,120","$2,273,060,863"
+Botswana,Africa,"2,675,352","566,730","$20,352,322,157"
+Namibia,Africa,"2,604,172","823,290","$12,607,436,976"
+Gabon,Africa,"2,436,566","257,670","$21,071,739,228"
+Lesotho,Africa,"2,330,318","30,360","$2,553,459,763"
+Guinea-Bissau,Africa,"2,150,842","28,120","$1,633,559,092"
+Equatorial Guinea,Africa,"1,714,671","28,050","$11,813,908,448"
+Mauritius,Africa,"1,300,557","2,030","$12,898,307,089"
+Eswatini,Africa,"1,210,822","17,200","$4,854,167,638"
+Djibouti,Africa,"1,136,455","23,180",
+Réunion,Africa,"981,796","2,500",
+Comoros,Africa,"852,075","1,861","$1,242,519,407"
+Cabo Verde,Africa,"598,682","4,030","$2,314,816,792"
+Western Sahara,Africa,"587,259","266,000",
+Mayotte,Africa,"335,995",375,
+Sao Tome & Principe,Africa,"231,856",960,"$546,680,342"
+Seychelles,Africa,"107,660",460,"$1,588,406,479"
+Saint Helena,Africa,"5,314",390,
+Australia,Oceania,"26,439,111","7,682,300","$1,675,420,000,000"
+Papua New Guinea,Oceania,"10,329,931","452,860","$30,633,444,295"
+New Zealand,Oceania,"5,228,100","263,310","$247,234,000,000"
+Fiji,Oceania,"936,375","18,270","$4,943,248,200"
+Solomon Islands,Oceania,"740,424","27,990","$1,595,710,784"
+Micronesia,Oceania,"544,321",700,"$427,094,119"
+Vanuatu,Oceania,"334,506","12,190","$983,582,865"
+French Polynesia,Oceania,"308,872","3,660",
+New Caledonia,Oceania,"292,991","18,280",
+Samoa,Oceania,"225,681","2,830","$832,421,565"
+Guam,Oceania,"172,952",540,
+Kiribati,Oceania,"133,515",810,"$223,352,943"
+Tonga,Oceania,"107,773",720,
+Northern Mariana Islands,Oceania,"49,796",460,
+American Samoa,Oceania,"43,914",200,
+Marshall Islands,Oceania,"41,996",180,"$279,667,900"
+Palau,Oceania,"18,058",460,
+Cook Islands,Oceania,"17,044",240,
+Nauru,Oceania,"12,780",20,
+Wallis & Futuna,Oceania,"11,502",140,
+Tuvalu,Oceania,"11,396",30,"$60,349,391"
+Niue,Oceania,"1,935",260,
+Tokelau,Oceania,"1,893",10,
+United States,Northern America,"339,996,563","9,147,420","$25,462,700,000,000"
+Canada,Northern America,"38,781,291","9,093,510","$2,139,840,000,000"
+Bermuda,Northern America,"64,069",50,
+Greenland,Northern America,"56,643","410,450",
+Saint Pierre & Miquelon,Northern America,"5,840",230,
+Brazil,Latin America and the Caribbean,"216,422,446","8,358,140","$1,920,100,000,000"
+Mexico,Latin America and the Caribbean,"128,455,567","1,943,950","$1,414,190,000,000"
+Colombia,Latin America and the Caribbean,"52,085,168","1,109,500","$343,939,000,000"
+Argentina,Latin America and the Caribbean,"45,773,884","2,736,690","$632,770,000,000"
+Peru,Latin America and the Caribbean,"34,352,719","1,280,000","$242,632,000,000"
+Venezuela,Latin America and the Caribbean,"28,838,499","882,050",
+Chile,Latin America and the Caribbean,"19,629,590","743,532","$301,025,000,000"
+Ecuador,Latin America and the Caribbean,"18,190,484","248,360","$115,049,000,000"
+Guatemala,Latin America and the Caribbean,"18,092,026","107,160","$95,003,333,381"
+Bolivia,Latin America and the Caribbean,"12,388,571","1,083,300","$43,068,885,673"
+Cuba,Latin America and the Caribbean,"11,194,449","106,440",
+Haiti,Latin America and the Caribbean,"11,724,763","27,560","$20,253,551,885"
+Dominican Republic,Latin America and the Caribbean,"11,332,972","48,320","$113,642,000,000"
+Honduras,Latin America and the Caribbean,"10,593,798","111,890","$31,717,700,115"
+Nicaragua,Latin America and the Caribbean,"7,046,310","120,340","$15,671,583,878"
+Paraguay,Latin America and the Caribbean,"6,861,524","397,300","$41,722,295,362"
+El Salvador,Latin America and the Caribbean,"6,364,943","20,720","$32,488,720,000"
+Costa Rica,Latin America and the Caribbean,"5,212,173","51,060","$68,380,838,316"
+Panama,Latin America and the Caribbean,"4,468,087","74,340","$76,522,511,781"
+Uruguay,Latin America and the Caribbean,"3,423,108","175,020","$71,177,146,197"
+Puerto Rico,Latin America and the Caribbean,"3,260,314","8,870",
+Jamaica,Latin America and the Caribbean,"2,825,544","10,830","$17,097,760,745"
+Trinidad and Tobago,Latin America and the Caribbean,"1,534,937","5,130","$27,899,082,337"
+Guyana,Latin America and the Caribbean,"813,834","196,850","$15,357,537,068"
+Suriname,Latin America and the Caribbean,"623,236","156,000","$3,620,655,116"
+Bahamas,Latin America and the Caribbean,"412,623","10,010","$12,897,400,000"
+Guadeloupe,Latin America and the Caribbean,"395,839","1,690",
+Belize,Latin America and the Caribbean,"410,825","22,810","$2,824,081,836"
+Martinique,Latin America and the Caribbean,"366,981","1,060",
+French Guiana,Latin America and the Caribbean,"312,155","82,200",
+Barbados,Latin America and the Caribbean,"281,995",430,"$5,637,914,515"
+Curaçao,Latin America and the Caribbean,"192,077",444,
+Saint Lucia,Latin America and the Caribbean,"180,251",610,"$2,065,027,556"
+Grenada,Latin America and the Caribbean,"126,183",340,"$1,256,413,185"
+Aruba,Latin America and the Caribbean,"106,277",180,
+St. Vincent & Grenadines,Latin America and the Caribbean,"103,698",390,"$948,558,503"
+U.S. Virgin Islands,Latin America and the Caribbean,"98,750",350,
+Antigua and Barbuda,Latin America and the Caribbean,"94,298",440,"$1,757,603,704"
+Dominica,Latin America and the Caribbean,"73,040",750,"$612,048,148"
+Cayman Islands,Latin America and the Caribbean,"69,310",240,
+Saint Kitts & Nevis,Latin America and the Caribbean,"47,755",260,"$961,563,259"
+Turks and Caicos,Latin America and the Caribbean,"46,062",950,
+Sint Maarten,Latin America and the Caribbean,"44,222",34,
+Saint Martin,Latin America and the Caribbean,"32,077",53,
+British Virgin Islands,Latin America and the Caribbean,"31,538",150,
+Caribbean Netherlands,Latin America and the Caribbean,"27,148",328,
+Anguilla,Latin America and the Caribbean,"15,899",90,
+Montserrat,Latin America and the Caribbean,"4,386",100,
+Falkland Islands,Latin America and the Caribbean,"3,791","12,170",
+Russia,Europe,"144,444,359","16,376,870","$2,240,420,000,000"
+Germany,Europe,"83,294,633","348,560","$4,072,190,000,000"
+United Kingdom,Europe,"67,736,802","241,930","$3,070,670,000,000"
+France,Europe,"64,756,584","547,557","$2,782,910,000,000"
+Italy,Europe,"58,870,762","294,140","$2,010,430,000,000"
+Spain,Europe,"47,519,628","498,800","$1,397,510,000,000"
+Ukraine,Europe,"36,744,634","579,320","$160,503,000,000"
+Poland,Europe,"41,026,067","306,230","$688,177,000,000"
+Romania,Europe,"19,892,812","230,170","$301,262,000,000"
+Netherlands,Europe,"17,618,299","33,720","$991,115,000,000"
+Belgium,Europe,"11,686,140","30,280","$578,604,000,000"
+Greece,Europe,"10,341,277","128,900","$219,066,000,000"
+Czech Republic (Czechia),Europe,"10,495,295","77,240","$290,924,000,000"
+Portugal,Europe,"10,247,605","91,590","$251,945,000,000"
+Sweden,Europe,"10,612,086","410,340","$585,939,000,000"
+Hungary,Europe,"10,156,239","90,530","$178,789,000,000"
+Belarus,Europe,"9,498,238","202,910","$72,793,457,588"
+Austria,Europe,"8,958,960","82,409","$471,400,000,000"
+Switzerland,Europe,"8,796,669","39,516","$807,706,000,000"
+Serbia,Europe,"7,149,077","87,460","$63,501,748,652"
+Bulgaria,Europe,"6,687,717","108,560","$89,040,398,406"
+Denmark,Europe,"5,910,913","42,430","$395,404,000,000"
+Finland,Europe,"5,545,475","303,890","$280,826,000,000"
+Slovakia,Europe,"5,795,199","48,088","$115,469,000,000"
+Norway,Europe,"5,474,360","365,268","$579,267,000,000"
+Ireland,Europe,"5,056,935","68,890","$529,245,000,000"
+Croatia,Europe,"4,008,617","55,960","$70,964,606,465"
+Bosnia and Herzegovina,Europe,"3,210,847","51,000","$24,527,507,288"
+Moldova,Europe,"3,435,931","32,850","$14,420,947,884"
+Albania,Europe,"2,832,439","27,400","$18,882,095,518"
+Lithuania,Europe,"2,718,352","62,674","$70,334,299,008"
+North Macedonia,Europe,"2,085,679","25,220","$13,563,132,057"
+Slovenia,Europe,"2,119,675","20,140","$62,117,768,015"
+Latvia,Europe,"1,830,211","62,200","$41,153,912,663"
+Estonia,Europe,"1,322,765","42,390","$38,100,812,959"
+Montenegro,Europe,"626,485","13,450","$6,095,978,868"
+Luxembourg,Europe,"654,768","2,590","$82,274,812,251"
+Malta,Europe,"535,064",320,"$17,765,270,015"
+Iceland,Europe,"375,318","100,250","$27,841,648,044"
+Isle of Man,Europe,"84,710",570,
+Andorra,Europe,"80,088",470,"$3,352,032,737"
+Faeroe Islands,Europe,"53,270","1,396",
+Liechtenstein,Europe,"39,584",160,
+Monaco,Europe,"36,297",1,
+San Marino,Europe,"33,642",60,
+Gibraltar,Europe,"32,688",10,
+Holy See,Europe,518,0,
